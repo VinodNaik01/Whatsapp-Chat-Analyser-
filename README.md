@@ -31,6 +31,9 @@ Users begin by exporting their WhatsApp chat from their phone.
 After export, the user uploads the `.txt` file to our Streamlit web application.
 ### Choode the individual person in group chat or overall for the overall analysis
 
+
+# 
+
 ![Upload and Choose User](screenShots/uploadAndUser.png)
 
 ---
