@@ -1,4 +1,4 @@
-# 📊 WhatsApp Chat Analyzer
+# 📊 WhatsApp Chat Analyzer - By Vinod S M
 
 A powerful Python-based analyzer that processes exported WhatsApp chat `.txt` files and generates detailed statistics, visualizations, and insights about the conversation patterns using **Streamlit**.
 
