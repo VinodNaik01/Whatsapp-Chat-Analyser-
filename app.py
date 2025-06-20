@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-st.sidebar.subheader("VINOD S M")
+st.sidebar.subheader(" VINOD S M")
 st.sidebar.subheader("UG: U06G021S0070")
 st.sidebar.image('20240810_082357.png')
 
