@@ -149,3 +149,21 @@ Whatsapp-Chat-Analyser/
 │   └── emoji.png
 
 
+
+
+## 📬 Contact
+
+For queries or collaborations, feel free to reach out:
+
+- GitHub: [VinodNaik01](https://github.com/VinodNaik01)
+- Email: `vinodsm510@gmail.com`
+
+---
+
+## 🌟 Show some love!
+
+If you found this project helpful, please ⭐ star this repo and follow for more!
+
+
+
+
